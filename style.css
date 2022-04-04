@@ -1,0 +1,18 @@
+h1{
+    text-align: center;
+}
+body{
+    background-color:wheat;
+}
+
+form{
+    margin-top: 15%;
+    margin-left: 30%;
+    margin-right: 30%;
+    height: auto;
+    border-radius: 50px;
+    background-image: url(https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/v978-background-02-kpzgw7o8.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=e62663bb68a9df004c04635304ebb5f8);
+}
+.matin{
+    padding-left: 30%;
+}
